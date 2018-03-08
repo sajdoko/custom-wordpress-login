@@ -1,2 +1,1 @@
-# custom-wordpress-login
-Customize Wordpress login page
+# custom wordpress login
